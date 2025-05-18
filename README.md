@@ -50,6 +50,8 @@ Install the necessary libraries like NLTK
 
 ## OutPut:
 
+![Image](https://github.com/user-attachments/assets/07783d1d-63e9-4544-8a1a-ad53fb63819c)
+
 
 
 
