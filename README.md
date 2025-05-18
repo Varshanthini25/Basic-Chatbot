@@ -38,7 +38,7 @@ Ease of Use: Buttons and text fields simplify user interactions, especially for 
 
 1.Clone the Repository:
 
-git clone https://github.com/Varshanthini25/Basic Chatbot.git
+https://github.com/Varshanthini25/Basic-Chatbot/blob/main/chatbot.py
 
 2.Install Required Libraries:
 
